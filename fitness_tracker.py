@@ -31,6 +31,10 @@ left, right = st.columns([3,1])
 
 with left:
     '''
+    ### Fitness Feb 
+    
+    The challenge is kilometres run/walked.
+    
     ### Rules and Regulations: 
     
     - Evidence must be sent.
@@ -45,7 +49,7 @@ with left:
     - In the third week of the competition the person to dead lift the greatest percentage of their body weight will win one choice of restaurant/game for a night.
     - In the fourth and final week of the competition the person who takes the nicest picture while on a walk/run will win one night of niceness (noone can be mean like a birthday). 
     
-    Punishments and Prizes:
+    ### Punishments and Prizes:
     
     - The outright winner can cash in either a meal at a restaurant (up to £30 in value to be shared between the rest of the competitors) or does not have to pay for a night of drinking.
     - The top three will all get to decide what drinks each member of the bottom three respectively have to drink on a night out (for non-drinkers their meal will be chosen instead).
